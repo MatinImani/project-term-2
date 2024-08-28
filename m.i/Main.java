@@ -90,8 +90,7 @@ public class Main
                 System.out.println("The area of r2 is greater than the area of r1");
             }
         }
-
-
+        
         int day;
         int month;
         int year;
@@ -384,7 +383,7 @@ public class Main
             s[i].setFail(fail);
 
             System.out.println("tetad daneshjo ejad shode:"+ s[i].getNum());
-            
+
             System.out.println("Student Info: ");
             s[i].print();
 
