@@ -384,8 +384,7 @@ public class Main
             s[i].setFail(fail);
 
             System.out.println("tetad daneshjo ejad shode:"+ s[i].getNum());
-
-
+            
             System.out.println("Student Info: ");
             s[i].print();
 
